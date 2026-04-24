@@ -14,6 +14,7 @@ Software studio and dev shop building custom AI systems for healthcare practices
 - Klienta (Commercial): https://github.com/ByteWorthyLLC/klienta
 - Clynova (Commercial): https://github.com/ByteWorthyLLC/clynova
 - Klienta Public (Trust/Legal/SEO): https://github.com/ByteWorthyLLC/klienta-public
+- Website Source (byteworthy.io): https://github.com/byteworthy/byteworthy-site
 
 ## Positioning Summary
 - ByteWorthy is a software studio and dev shop.
