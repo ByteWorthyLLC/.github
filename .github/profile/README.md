@@ -31,10 +31,15 @@ Software studio and dev shop building custom AI systems for healthcare practices
 ## Repositories
 
 - Sovra: https://github.com/ByteWorthyLLC/sovra
-- Klienta: https://github.com/ByteWorthyLLC/klienta
-- Clynova: https://github.com/ByteWorthyLLC/clynova
-- Klienta Public: https://github.com/ByteWorthyLLC/klienta-public
-- Website source: https://github.com/byteworthy/byteworthy-site
+- Klienta Public (trust/docs): https://github.com/ByteWorthyLLC/klienta-public
+- Clynova Public (trust/docs): https://github.com/ByteWorthyLLC/clynova-public
+- Website source: https://github.com/ByteWorthyLLC/byteworthy-site
+
+## Access Model
+
+- Sovra source is public (MIT).
+- Klienta and Clynova commercial source repositories are private and license-gated.
+- Public user-facing trust, policy, and discoverability surfaces are maintained in `klienta-public` and `clynova-public`.
 
 ## Contact
 
