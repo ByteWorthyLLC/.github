@@ -1,53 +1,50 @@
 # ByteWorthy LLC
 
-Software studio and dev shop building custom AI systems for healthcare practices and small businesses, plus open-source and commercial boilerplates.
+We build practical AI software for healthcare and workflow-heavy businesses.
+Our products are designed for ownership: one-time purchase templates you can self-host, with optional managed support.
 
-## What We Do
+## Product Model (Clear Terms)
 
-- Build custom AI and software systems end-to-end.
-- Ship production-ready boilerplates teams can self-host and own.
-- Provide AI consulting, audits, and implementation support.
+- Buy once for template products (`Klienta`, `Clynova`, and the new `Lead-Portfolio` family).
+- Self-host in your own cloud and keep control of source, data, and deployment.
+- Add managed help only if you want it (setup, hardening, updates, and ops support).
 
-## Core Positioning
+## Product Matrix
 
-- You own the code.
-- We focus on production outcomes, not demo-grade prototypes.
-- We specialize in healthcare and workflow-heavy business operations.
+| Product | Category | Delivery Model | Best Fit | Primary Links |
+| --- | --- | --- | --- | --- |
+| **Sovra** | Open-source core | MIT, public repo, self-host | Teams starting from a flexible AI SaaS base | [Repo](https://github.com/ByteWorthyLLC/sovra) · [Product page](https://byteworthy.io/boilerplates/sovra) |
+| **Klienta** | Paid template | One-time purchase, source included, self-host | Agencies needing white-label portal, billing, and client workflow tooling | [Product page](https://byteworthy.io/boilerplates/klienta) · [Public trust/docs repo](https://github.com/ByteWorthyLLC/klienta-public) |
+| **Clynova** | Paid template | One-time purchase, source included, self-host | Healthcare teams needing FHIR/HL7/X12-ready AI workflow foundation | [Product page](https://byteworthy.io/boilerplates/clynova) · [Public trust/docs repo](https://github.com/ByteWorthyLLC/clynova-public) |
+| **Lead-Portfolio Family** | Paid product family | One-time purchase, source included, self-host | Teams launching lead-gen-to-ops systems that connect into Klienta/Clynova delivery flows | [Family page](https://byteworthy.io/packs) · [Primary repo](https://github.com/ByteWorthyLLC/byteworthy-lead-portfolio) |
+| **Managed Add-On** | Optional service | Monthly managed support layered on top of self-hosted products | Teams that want ByteWorthy to run rollout + reliability work | [Services](https://byteworthy.io/services) · [Contact](https://byteworthy.io/contact) |
 
-## Product Line
+## How Products Fit Together
 
-- **Sovra** (open-source, MIT): AI SaaS foundation with multi-tenant auth, MCP agents, vector search, and release-ready defaults.
-- **Klienta** (commercial): white-label client portal and billing baseline for AI agencies.
-- **Clynova** (commercial): healthcare AI baseline with FHIR, HL7, X12, PHI controls, and compliance scaffolding.
+- `Sovra` is the open foundation.
+- `Klienta` and `Clynova` are paid, production-ready templates on proven patterns.
+- The `Lead-Portfolio` family is the top-of-funnel layer and is built to connect directly into Klienta/Clynova operating flows.
+- All paid products keep the same ownership model: one-time purchase + self-host, with optional managed add-on.
 
 ## Start Here
 
 - Website: https://byteworthy.io
-- Services: https://byteworthy.io/services
-- Boilerplates: https://byteworthy.io/boilerplates
-- About: https://byteworthy.io/about
-- Open source on GitHub: https://byteworthy.io/github
+- Product overview: https://byteworthy.io/boilerplates
+- Lead portfolio packs: https://byteworthy.io/packs
+- GitHub org: https://github.com/ByteWorthyLLC
+- Site source: https://github.com/ByteWorthyLLC/byteworthy-site
 
-## Repositories
+## Discoverability (Plain Language)
 
-- Sovra: https://github.com/ByteWorthyLLC/sovra
-- Klienta Public (trust/docs): https://github.com/ByteWorthyLLC/klienta-public
-- Clynova Public (trust/docs): https://github.com/ByteWorthyLLC/clynova-public
-- Website source: https://github.com/ByteWorthyLLC/byteworthy-site
+If you are searching for a **self-hosted AI SaaS boilerplate**, a **one-time purchase software template**, a **white-label client portal template**, or a **healthcare AI starter with compliance scaffolding**, ByteWorthy products are built for that use case.
 
-## Access Model
+## Developer Policies
 
-- Sovra source is public (MIT).
-- Klienta and Clynova commercial source repositories are private and license-gated.
-- Public user-facing trust, policy, and discoverability surfaces are maintained in `klienta-public` and `clynova-public`.
-
-## Developer Resources
-
-- Contributing guide: https://github.com/ByteWorthyLLC/.github/blob/main/CONTRIBUTING.md
+- Contributing: https://github.com/ByteWorthyLLC/.github/blob/main/CONTRIBUTING.md
 - Support: https://github.com/ByteWorthyLLC/.github/blob/main/SUPPORT.md
-- Security policy: https://github.com/ByteWorthyLLC/.github/blob/main/SECURITY.md
+- Security: https://github.com/ByteWorthyLLC/.github/blob/main/SECURITY.md
 
 ## Contact
 
-- Free system audit: https://byteworthy.io/contact
+- Contact form: https://byteworthy.io/contact
 - Email: scale@getbyteworthy.com
