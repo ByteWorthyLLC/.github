@@ -1,0 +1,22 @@
+# ByteWorthy LLC
+
+Software studio and dev shop building custom AI systems for healthcare practices and SMBs, plus open-source and commercial boilerplates.
+
+## Canonical Links
+- Website: https://byteworthy.io
+- Services: https://byteworthy.io/services
+- Boilerplates: https://byteworthy.io/boilerplates
+- About: https://byteworthy.io/about
+- GitHub overview page: https://byteworthy.io/github
+
+## Product Repositories
+- Sovra (OSS): https://github.com/ByteWorthyLLC/sovra
+- Klienta (Commercial): https://github.com/ByteWorthyLLC/klienta
+- Clynova (Commercial): https://github.com/ByteWorthyLLC/clynova
+- Klienta Public (Trust/Legal/SEO): https://github.com/ByteWorthyLLC/klienta-public
+
+## Positioning Summary
+- ByteWorthy is a software studio and dev shop.
+- Primary services are custom builds, boilerplate licensing, and AI consulting.
+- Focus segments are healthcare and growing SMB operations.
+- Core promise: clients own the code and can self-host.

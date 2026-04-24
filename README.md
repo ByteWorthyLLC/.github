@@ -1,2 +1,3 @@
-# .github
-Organization profile and discovery surfaces for ByteWorthy LLC.
+# ByteWorthyLLC Organization Profile
+
+Organization profile content lives at `.github/profile/README.md`.
