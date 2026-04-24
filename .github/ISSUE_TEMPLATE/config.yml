@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: General support
+    url: https://byteworthy.io/contact
+    about: Product, services, and implementation support.
+  - name: Security report
+    url: mailto:security@byteworthy.io
+    about: Report vulnerabilities privately.

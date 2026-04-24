@@ -41,6 +41,12 @@ Software studio and dev shop building custom AI systems for healthcare practices
 - Klienta and Clynova commercial source repositories are private and license-gated.
 - Public user-facing trust, policy, and discoverability surfaces are maintained in `klienta-public` and `clynova-public`.
 
+## Developer Resources
+
+- Contributing guide: https://github.com/ByteWorthyLLC/.github/blob/main/CONTRIBUTING.md
+- Support: https://github.com/ByteWorthyLLC/.github/blob/main/SUPPORT.md
+- Security policy: https://github.com/ByteWorthyLLC/.github/blob/main/SECURITY.md
+
 ## Contact
 
 - Free system audit: https://byteworthy.io/contact

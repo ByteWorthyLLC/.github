@@ -19,6 +19,12 @@ Software studio and dev shop building custom AI systems for healthcare practices
 - Sovra source is public (MIT).
 - Klienta and Clynova commercial source repositories are private and license-gated.
 
+## Developer Defaults
+- Contributing: https://github.com/ByteWorthyLLC/.github/blob/main/CONTRIBUTING.md
+- Support: https://github.com/ByteWorthyLLC/.github/blob/main/SUPPORT.md
+- Security: https://github.com/ByteWorthyLLC/.github/blob/main/SECURITY.md
+- PR Template: https://github.com/ByteWorthyLLC/.github/blob/main/.github/PULL_REQUEST_TEMPLATE.md
+
 ## Positioning Summary
 - ByteWorthy is a software studio and dev shop.
 - Primary services are custom builds, boilerplate licensing, and AI consulting.
