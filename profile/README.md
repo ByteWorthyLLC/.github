@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/ByteWorthyLLC/.github/main/.github/assets/org-header.svg" alt="ByteWorthy — Production-ready foundations for AI teams" width="100%">
+<img src="https://raw.githubusercontent.com/ByteWorthyLLC/.github/main/.github/assets/org-header.svg" alt="ByteWorthy: Production-ready foundations for AI teams" width="100%">
 </div>
 
 ---
@@ -84,10 +84,10 @@ Early access pricing for teams who move first. Locked for life at the founding r
 
 ## Community + support
 
-- **Discord** — [byteworthy.io/discord](https://byteworthy.io/discord) — questions, builds in progress, feedback
-- **GitHub Issues** — open an issue in the relevant repo for bugs and feature requests
-- **Security disclosures** — [security@byteworthy.io](mailto:security@byteworthy.io) — coordinated disclosure only, no public posts
-- **Commercial inquiries** — [scale@getbyteworthy.com](mailto:scale@getbyteworthy.com) — managed setup, custom forks, team licensing
+- **Discord**: [byteworthy.io/discord](https://byteworthy.io/discord): questions, builds in progress, feedback
+- **GitHub Issues**: open an issue in the relevant repo for bugs and feature requests
+- **Security disclosures**: [security@byteworthy.io](mailto:security@byteworthy.io): coordinated disclosure only, no public posts
+- **Commercial inquiries**: [scale@getbyteworthy.com](mailto:scale@getbyteworthy.com): managed setup, custom forks, team licensing
 
 ---
 
