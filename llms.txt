@@ -1,32 +1,48 @@
 # ByteWorthy LLC
 
-Software studio and dev shop building custom AI systems for healthcare practices and SMBs, plus open-source and commercial boilerplates.
+Software studio building multi-tenant AI infrastructure, HIPAA-ready healthcare boilerplates, and operator-first open-source tools. Buy once, self-host, own the source. No subscriptions, no telemetry.
 
-## Canonical Links
+## Canonical links
+
 - Website: https://byteworthy.io
+- Boilerplates hub: https://byteworthy.io/boilerplates
 - Services: https://byteworthy.io/services
-- Boilerplates: https://byteworthy.io/boilerplates
 - About: https://byteworthy.io/about
-- GitHub overview page: https://byteworthy.io/github
+- Contact: https://byteworthy.io/contact
+- GitHub overview: https://byteworthy.io/github
+- Discord: https://byteworthy.io/discord
+- Newsletter: https://byteworthy.io/newsletter
 
-## Product Repositories
-- Sovra (OSS): https://github.com/ByteWorthyLLC/sovra
-- Klienta Public (Trust/Legal/SEO): https://github.com/ByteWorthyLLC/klienta-public
-- Clynova Public (Trust/Legal/SEO): https://github.com/ByteWorthyLLC/clynova-public
-- Website Source (byteworthy.io): https://github.com/ByteWorthyLLC/byteworthy-site
+## Boilerplate family
 
-## Access Model
-- Sovra source is public (MIT).
-- Klienta and Clynova commercial source repositories are private and license-gated.
+| Boilerplate | License | Repository |
+|---|---|---|
+| Sovra (open-source foundation) | MIT | https://github.com/ByteWorthyLLC/sovra |
+| Klienta (agency client portals) | Commercial | https://github.com/ByteWorthyLLC/klienta |
+| Clynova (HIPAA-ready healthcare) | Commercial | https://github.com/ByteWorthyLLC/clynova |
 
-## Developer Defaults
+## Open-source tools
+
+- honeypot-med — prompt-injection evidence for healthcare AI: https://github.com/ByteWorthyLLC/honeypot-med
+- byteworthy-defend — open-source CLI antivirus (Windows + Linux): https://github.com/ByteWorthyLLC/byteworthy-defend
+- vqol — patient-owned VEINES-QOL/Sym PWA tracker: https://github.com/ByteWorthyLLC/vqol
+- hightimized — browser-only hospital-bill audit + dispute letter generator: https://github.com/ByteWorthyLLC/hightimized
+- outbreaktinder — historic public-health events as a swipe deck (CC0): https://github.com/ByteWorthyLLC/outbreaktinder
+
+## Access model
+
+- Sovra source is public (MIT). Self-host freely.
+- Klienta and Clynova commercial source is private and license-gated. Source is provisioned to a private GitHub repository after license purchase.
+- Open-source tools are MIT (or CC0 for outbreaktinder dataset). Self-host freely.
+- ByteWorthy never reaches into deployed instances. No telemetry.
+
+## Developer defaults
+
 - Contributing: https://github.com/ByteWorthyLLC/.github/blob/main/CONTRIBUTING.md
 - Support: https://github.com/ByteWorthyLLC/.github/blob/main/SUPPORT.md
 - Security: https://github.com/ByteWorthyLLC/.github/blob/main/SECURITY.md
-- PR Template: https://github.com/ByteWorthyLLC/.github/blob/main/.github/PULL_REQUEST_TEMPLATE.md
+- PR template: https://github.com/ByteWorthyLLC/.github/blob/main/.github/PULL_REQUEST_TEMPLATE.md
 
-## Positioning Summary
-- ByteWorthy is a software studio and dev shop.
-- Primary services are custom builds, boilerplate licensing, and AI consulting.
-- Focus segments are healthcare and growing SMB operations.
-- Core promise: clients own the code and can self-host.
+## Positioning
+
+ByteWorthy is a software studio and dev shop. Primary services: custom builds, boilerplate licensing, AI consulting. Focus segments: healthcare practices and growing SMB operations. Core promise: clients own the code and can self-host.
