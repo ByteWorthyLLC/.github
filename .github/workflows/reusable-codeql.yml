@@ -28,11 +28,11 @@ jobs:
           else
             echo "skip=false" >> "$GITHUB_OUTPUT"
           fi
-      - uses: github/codeql-action/init@v4.37.9
+      - uses: github/codeql-action/init@v4.38.2
         if: steps.skip.outputs.skip == 'false'
         with:
           languages: ${{ matrix.language }}
-      - uses: github/codeql-action/analyze@v4.37.9
+      - uses: github/codeql-action/analyze@v4.38.2
         if: steps.skip.outputs.skip == 'false'
         with:
           category: "/language:${{ matrix.language }}"
